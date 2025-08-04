@@ -47,9 +47,10 @@ Alongside the classification, we also compute:
 - **Noise Score** (difference from Gaussian-blurred image)
 
 These metrics help provide suggestions for how to improve a poor-quality image.
-
 ---
 Run this app by running streamlit run app.py on terminal
+
+📁 File Structure
 
 ├── good_images/       # Clean UTKFace images
 
