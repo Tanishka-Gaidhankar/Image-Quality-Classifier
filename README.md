@@ -51,3 +51,20 @@ These metrics help provide suggestions for how to improve a poor-quality image.
 ---
 Run this app by running streamlit run app.py on terminal
 
+├── good_images/       # Clean UTKFace images
+
+├── bad_images/           # Augmented poor-quality images
+
+├── dataset_labels.csv    # Labels (Good/Bad)
+
+├── train_classifier.py   # Training script
+
+├── test_model.py         # Single image test script
+
+├── app.py                # Streamlit interface
+
+├── good_bad_classifier.h5 # Trained model
+
+├── README.md
+
+
