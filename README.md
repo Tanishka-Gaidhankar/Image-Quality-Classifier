@@ -1,6 +1,7 @@
 <img width="961" height="495" alt="Screenshot 2025-08-04 174931" src="https://github.com/user-attachments/assets/993a2af6-359e-4ba1-8fd4-af72c38fd799" />
 <img width="964" height="675" alt="Screenshot 2025-08-04 174939" src="https://github.com/user-attachments/assets/415a0dbc-e10a-4ca4-80b8-1ddd55458b36" />
 
+Demo Video:demo_video.mp4
 
 #  Image Quality Classification Model (Good vs Bad Faces)
 
