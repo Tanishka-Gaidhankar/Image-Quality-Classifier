@@ -63,10 +63,10 @@ Run this app by running streamlit run app.py on terminal
 
 ├── test_model.py         # Single image test script
 
-├── app.py                # Streamlit interface
+├── New_app.py                # Streamlit interface
 
 ├── good_bad_classifier.h5 # Trained model
 
-├── README.md
+├── README.md 
 
 
